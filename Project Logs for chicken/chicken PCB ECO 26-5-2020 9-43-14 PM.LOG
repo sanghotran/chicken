@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=chicken Member=CR?
+Removed Member From Class: ClassName=chicken Member=U?
+Added Component: Designator=M?(LC125)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=chicken Member=Component M? LC
+Added Room: Name=chicken

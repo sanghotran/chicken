@@ -1,0 +1,18 @@
+Added Component: Designator=CR?(LQFP-48 - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Added Component: Designator=M?(LC125)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(SOT23-5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetCR?_49 Pin=CR?-49
+Added Pin To Net: NetName=NetCR?_49 Pin=U?-5
+Added Net: Name=NetCR?_49
+Added Class: Name=chicken
+Added Room: Name=chicken
