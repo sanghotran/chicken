@@ -1,0 +1,4 @@
+Added Component: Designator=*(HC12)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=chicken Member=Component * HC12
+Added Room: Name=chicken

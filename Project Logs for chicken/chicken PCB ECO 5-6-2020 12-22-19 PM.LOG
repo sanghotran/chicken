@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=* Old Footprint=ESP8266 New Footprint=HC05-06 SMD
+Change Component Comment : Designator=* Old Comment=ESP8266 New Comment=HC05-06 SMD
+Added Room: Name=chicken

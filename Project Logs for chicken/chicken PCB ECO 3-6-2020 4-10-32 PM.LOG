@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=chicken Member=M?
+Added Component: Designator=*(ESP8266)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=chicken Member=Component * ESP8266
+Added Room: Name=chicken

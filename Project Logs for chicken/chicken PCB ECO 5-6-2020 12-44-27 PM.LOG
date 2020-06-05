@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=* Old Footprint=HC05-06 SMD New Footprint=NRF24L01
+Change Component Comment : Designator=* Old Comment=HC05-06 SMD New Comment=NRF24L01
+Added Room: Name=chicken
