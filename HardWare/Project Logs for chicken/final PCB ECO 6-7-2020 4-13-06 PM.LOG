@@ -1,0 +1,44 @@
+Added Component: Designator=M2(DRV8825)
+Add component. Clean all parameters for all variants
+Added Component: Designator=M3(DRV8825)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MTR1_DIR Pin=M2-1
+Added Pin To Net: NetName=MTR1_PWM Pin=M2-2
+Added Pin To Net: NetName=VDD Pin=M2-3
+Added Pin To Net: NetName=VDD Pin=M2-4
+Added Pin To Net: NetName=NetM2_5 Pin=M2-5
+Added Pin To Net: NetName=NetM2_6 Pin=M2-6
+Added Pin To Net: NetName=NetM2_7 Pin=M2-7
+Added Pin To Net: NetName=MTR1_ENB Pin=M2-8
+Added Pin To Net: NetName=12V_STEP Pin=M2-9
+Added Pin To Net: NetName=VSS Pin=M2-10
+Added Pin To Net: NetName=MTR1_B2 Pin=M2-11
+Added Pin To Net: NetName=MTR1_B1 Pin=M2-12
+Added Pin To Net: NetName=MTR1_A1 Pin=M2-13
+Added Pin To Net: NetName=MTR1_A2 Pin=M2-14
+Added Pin To Net: NetName=VSS Pin=M2-16
+Added Pin To Net: NetName=MTR2_DIR Pin=M3-1
+Added Pin To Net: NetName=MTR2_PWM Pin=M3-2
+Added Pin To Net: NetName=VDD Pin=M3-3
+Added Pin To Net: NetName=VDD Pin=M3-4
+Added Pin To Net: NetName=NetM3_5 Pin=M3-5
+Added Pin To Net: NetName=NetM3_6 Pin=M3-6
+Added Pin To Net: NetName=NetM3_7 Pin=M3-7
+Added Pin To Net: NetName=MTR2_ENB Pin=M3-8
+Added Pin To Net: NetName=12V_STEP Pin=M3-9
+Added Pin To Net: NetName=VSS Pin=M3-10
+Added Pin To Net: NetName=MTR2_B2 Pin=M3-11
+Added Pin To Net: NetName=MTR2_B1 Pin=M3-12
+Added Pin To Net: NetName=MTR2_A1 Pin=M3-13
+Added Pin To Net: NetName=MTR2_A2 Pin=M3-14
+Added Pin To Net: NetName=VSS Pin=M3-16
+Added Member To Class: ClassName=Motor Control Member=Component M2 DRV8825
+Added Member To Class: ClassName=Motor Control Member=Component M3 DRV8825
+Added Room: Name=Blutooth
+Added Room: Name=Decawave
+Added Room: Name=MCU
+Added Room: Name=Motor Control
+Added Room: Name=Power_Supply
+Added Room: Name=RF
+Added Room: Name=Sensor
+Added Room: Name=Wifi

@@ -1,0 +1,26 @@
+Added Component: Designator=U6(CP2102-GM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CP2102-GM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Silicon_Labs_2015-03-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSS Pin=U6-3
+Added Pin To Net: NetName=3V3_WIFI Pin=U6-6
+Added Pin To Net: NetName=3V3_WIFI Pin=U6-7
+Added Pin To Net: NetName=5V5_WIFI Pin=U6-8
+Added Pin To Net: NetName=NetD11_2 Pin=U6-12
+Added Pin To Net: NetName=NetCR1_13 Pin=U6-25
+Added Pin To Net: NetName=NetR32_1 Pin=U6-26
+Added Pin To Net: NetName=VSS Pin=U6-29
+Added Member To Class: ClassName=Wifi Member=Component U6 CP2102-GM
+Added Room: Name=Blutooth
+Added Room: Name=Decawave
+Added Room: Name=MCU
+Added Room: Name=Motor Control
+Added Room: Name=Power_Supply
+Added Room: Name=RF
+Added Room: Name=Sensor
+Added Room: Name=Wifi

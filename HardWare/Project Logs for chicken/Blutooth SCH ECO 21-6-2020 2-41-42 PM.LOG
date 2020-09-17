@@ -1,0 +1,4 @@
+Remove Pin=U6-4 From Net=USB_D+
+Remove Pin=U6-5 From Net=USB_D-
+Remove Pin=U6-24 From Net=ESP_RTS
+Remove Pin=U6-28 From Net=GP2102_DTR

@@ -1,0 +1,6 @@
+thread.c:13:12:RegisterThread	24	static
+thread.c:30:12:UnRegisterThread	16	static
+thread.c:40:6:OneMsTimerInterrup	8	static
+thread.c:64:6:BlinkLed	8	static
+thread.c:70:6:BlinkBuzzer	8	static
+thread.c:75:6:HAL_TIM_PeriodElapsedCallback	16	static

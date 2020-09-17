@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=MTR1_PWM Pin=U2-18
+Added Room: Name=Blutooth
+Added Room: Name=Decawave
+Added Room: Name=MCU
+Added Room: Name=Motor Control
+Added Room: Name=Power_Supply
+Added Room: Name=RF
+Added Room: Name=Sensor
+Added Room: Name=Wifi

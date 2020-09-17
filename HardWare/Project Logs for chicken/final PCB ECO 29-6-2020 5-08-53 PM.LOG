@@ -1,0 +1,194 @@
+Added Component: Designator=C6(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Local Supplier"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Local Supplier Link"; Value = "https://thegioiic.com/products/tu-100nf-0-1uf-50v-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21F104ZBCNNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Link"; Value = "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21F104ZBCNNNC/1276-1007-1-ND/3889093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "1276-1007-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Local Supplier"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Local Supplier Link"; Value = "https://thegioiic.com/products/tu-100nf-0-1uf-50v-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21F104ZBCNNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Link"; Value = "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21F104ZBCNNNC/1276-1007-1-ND/3889093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "1276-1007-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Local Supplier"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Local Supplier Link"; Value = "https://thegioiic.com/products/tu-100nf-0-1uf-50v-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21F104ZBCNNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Link"; Value = "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21F104ZBCNNNC/1276-1007-1-ND/3889093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "1276-1007-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Local Supplier"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Local Supplier Link"; Value = "https://thegioiic.com/products/tu-100nf-0-1uf-50v-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21F104ZBCNNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Link"; Value = "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21F104ZBCNNNC/1276-1007-1-ND/3889093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "1276-1007-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=CR1(LQFP-48)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Added Component: Designator=P8(JP3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P9(JP3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P10(JP3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Local Supplier"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Local Supplier Link"; Value = "https://thegioiic.com/products/dien-tro-0-ohm-0805-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WSL080500000ZEA9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Link"; Value = "https://www.digikey.com/product-detail/en/vishay-dale/WSL080500000ZEA9/541-3928-1-ND/7423223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "541-3928-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Local Supplier"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Local Supplier Link"; Value = "https://thegioiic.com/products/dien-tro-0-ohm-0805-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WSL080500000ZEA9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Link"; Value = "https://www.digikey.com/product-detail/en/vishay-dale/WSL080500000ZEA9/541-3928-1-ND/7423223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "541-3928-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=S4(434113043826)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/em/datasheet/434113043826.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Stainless Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "260gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "434113043826"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "12VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "No"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSS Pin=C6-1
+Added Pin To Net: NetName=NRST Pin=C6-2
+Added Pin To Net: NetName=VSS Pin=C7-1
+Added Pin To Net: NetName=VDD Pin=C7-2
+Added Pin To Net: NetName=VDD Pin=C8-1
+Added Pin To Net: NetName=VSS Pin=C8-2
+Added Pin To Net: NetName=VDD Pin=C9-1
+Added Pin To Net: NetName=VSS Pin=C9-2
+Added Pin To Net: NetName=BUZZER Pin=CR1-2
+Added Pin To Net: NetName=NetCR1_3 Pin=CR1-3
+Added Pin To Net: NetName=NetCR1_4 Pin=CR1-4
+Added Pin To Net: NetName=NetCR1_5 Pin=CR1-5
+Added Pin To Net: NetName=NetCR1_6 Pin=CR1-6
+Added Pin To Net: NetName=NRST Pin=CR1-7
+Added Pin To Net: NetName=VSS Pin=CR1-8
+Added Pin To Net: NetName=VDD Pin=CR1-9
+Added Pin To Net: NetName=NetCR1_10 Pin=CR1-10
+Added Pin To Net: NetName=NetCR1_11 Pin=CR1-11
+Added Pin To Net: NetName=NetCR1_12 Pin=CR1-12
+Added Pin To Net: NetName=ESP_TX Pin=CR1-13
+Added Pin To Net: NetName=Net*1_11 Pin=CR1-14
+Added Pin To Net: NetName=NetCR1_15 Pin=CR1-15
+Added Pin To Net: NetName=NetCR1_16 Pin=CR1-16
+Added Pin To Net: NetName=NetCR1_17 Pin=CR1-17
+Added Pin To Net: NetName=BTN Pin=CR1-18
+Added Pin To Net: NetName=RF_SET Pin=CR1-19
+Added Pin To Net: NetName=NetCR1_20 Pin=CR1-20
+Added Pin To Net: NetName=RF_RXD Pin=CR1-21
+Added Pin To Net: NetName=RF_TXD Pin=CR1-22
+Added Pin To Net: NetName=VSS Pin=CR1-23
+Added Pin To Net: NetName=VDD Pin=CR1-24
+Added Pin To Net: NetName=DWM_SPI_CSn Pin=CR1-25
+Added Pin To Net: NetName=DWM_SPI_CLK Pin=CR1-26
+Added Pin To Net: NetName=DWM_SPI_MISO Pin=CR1-27
+Added Pin To Net: NetName=DWM_SPI_MOSI Pin=CR1-28
+Added Pin To Net: NetName=LED Pin=CR1-29
+Added Pin To Net: NetName=BLUE_RX Pin=CR1-30
+Added Pin To Net: NetName=BLUE_TX Pin=CR1-31
+Added Pin To Net: NetName=BLU_KEY Pin=CR1-32
+Added Pin To Net: NetName=NetCR1_33 Pin=CR1-33
+Added Pin To Net: NetName=SWDIO Pin=CR1-34
+Added Pin To Net: NetName=VSS Pin=CR1-35
+Added Pin To Net: NetName=VDD Pin=CR1-36
+Added Pin To Net: NetName=SWCLK Pin=CR1-37
+Added Pin To Net: NetName=NetCR1_38 Pin=CR1-38
+Added Pin To Net: NetName=NetCR1_39 Pin=CR1-39
+Added Pin To Net: NetName=NetCR1_40 Pin=CR1-40
+Added Pin To Net: NetName=NetCR1_41 Pin=CR1-41
+Added Pin To Net: NetName=NetCR1_42 Pin=CR1-42
+Added Pin To Net: NetName=NetCR1_43 Pin=CR1-43
+Added Pin To Net: NetName=NetCR1_44 Pin=CR1-44
+Added Pin To Net: NetName=NetCR1_45 Pin=CR1-45
+Added Pin To Net: NetName=NetCR1_46 Pin=CR1-46
+Added Pin To Net: NetName=VSS Pin=CR1-47
+Added Pin To Net: NetName=VDD Pin=CR1-48
+Added Pin To Net: NetName=VDD Pin=P8-1
+Added Pin To Net: NetName=BOOT0 Pin=P8-2
+Added Pin To Net: NetName=VSS Pin=P8-3
+Added Pin To Net: NetName=VSS Pin=P9-1
+Added Pin To Net: NetName=BOOT1 Pin=P9-2
+Added Pin To Net: NetName=VDD Pin=P9-3
+Added Pin To Net: NetName=SWDIO Pin=P10-1
+Added Pin To Net: NetName=SWCLK Pin=P10-2
+Added Pin To Net: NetName=VSS Pin=P10-3
+Added Pin To Net: NetName=NetCR1_44 Pin=R13-1
+Added Pin To Net: NetName=BOOT0 Pin=R13-2
+Added Pin To Net: NetName=BOOT1 Pin=R14-1
+Added Pin To Net: NetName=NetCR1_20 Pin=R14-2
+Added Pin To Net: NetName=NRST Pin=S4-1
+Added Pin To Net: NetName=VSS Pin=S4-2
+Added Member To Class: ClassName=MCU Member=Component C6 Cap-100nF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component C7 Cap-100nF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component C8 Cap-100nF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component C9 Cap-100nF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component CR1 Part Number: STM32F103C8T6
+Added Member To Class: ClassName=MCU Member=Component P8 Header 3
+Added Member To Class: ClassName=MCU Member=Component P9 Header 3
+Added Member To Class: ClassName=MCU Member=Component P10 Header 3
+Added Member To Class: ClassName=MCU Member=Component R13 Res-100K-0805
+Added Member To Class: ClassName=MCU Member=Component R14 Res-100K-0805
+Added Member To Class: ClassName=MCU Member=Component S4 434113043826
+Added Room: Name=Blutooth
+Added Room: Name=Decawave
+Added Room: Name=MCU
+Added Room: Name=Motor Control
+Added Room: Name=Power_Supply
+Added Room: Name=RF
+Added Room: Name=Sensor
+Added Room: Name=Wifi
