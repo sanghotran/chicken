@@ -46,8 +46,8 @@ chicken.bin \
 all: chicken.elf secondary-outputs
 
 # Tool invocations
-chicken.elf: $(OBJS) $(USER_OBJS) D:\project\chicken\SoftWare\STM32F103C8TX_FLASH.ld
-	arm-none-eabi-gcc -o "chicken.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"D:\project\chicken\SoftWare\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="chicken.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+chicken.elf: $(OBJS) $(USER_OBJS) D:\project\chicken\FirmWare\STM32F103C8TX_FLASH.ld
+	arm-none-eabi-gcc -o "chicken.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"D:\project\chicken\FirmWare\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="chicken.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

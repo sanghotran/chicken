@@ -91,7 +91,7 @@ int main(void)
   MX_TIM3_Init();
   /* USER CODE BEGIN 2 */
 
-  HAL_TIM_Base_Start_IT(&htim3);
+  HAL_TIM_Base_Start_IT(&htim1);
 
   RegisterThread(&BlinkBuzzer, 1000, ThreadRepeat, NULL);
   RegisterThread(&BlinkLed, 250, ThreadRepeat, NULL);
